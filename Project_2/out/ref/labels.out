@@ -1,0 +1,18 @@
+.text
+000100b3
+002080e3
+7e310fe3
+81b0f06f
+7e418fe3
+8190f06f
+7e208fe3
+
+.symbol
+0	label1
+4	label2
+12	label3
+20	label4
+
+.relocation
+12	label2
+20	label1

@@ -1,0 +1,16 @@
+.text
+fe311ee3
+ff9ff06f
+fe419ae3
+ff1ff06f
+fe2086e3
+
+.symbol
+0	label1
+0	label2
+8	label3
+16	label4
+
+.relocation
+4	label2
+12	label1
